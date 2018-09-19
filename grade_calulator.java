@@ -1,5 +1,3 @@
-package hollon_joe_01;
-
 import java.util.Scanner;
 
 public class grade_calulator 
